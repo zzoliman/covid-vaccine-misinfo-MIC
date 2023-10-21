@@ -2,7 +2,14 @@
 
 This repository contains the annotated data, and codebook associated with the paper **COVID-19 Vaccine Misinformation in Middle Income Countries**. Jongin Kim, Byeo Rhee Bak, Aditya Agrawal, Jiaxi Wu, Veronika J. Wirtz, Traci Hong, Derry Wijaya. EMNLP 2023.
 
-# Citation
+## Data
+
+Each data split is in a .tsv file with the following header format:
+
+| posturl      | Ql | Q2 | Q3 | Q4a | Q4b | Q4c | Q4d | Q4e | Q4f | Q4g | Q4h | 
+| ------------- | ------------- | ---------------- | ------------- | ------ | ---------- | ---------- | ---- | ------ | ---- | ---- | ---- | 
+
+## Citation
 
 If you use the data or any resources from this repository, please cite our paper:
 ```
