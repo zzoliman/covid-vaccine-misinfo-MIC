@@ -6,8 +6,8 @@ This repository contains the annotated data, and codebook associated with the pa
 
 The annotated data is in a .csv file with the following header:
 
-| posturl      | Ql | Q2 | Q3 | Q4a | Q4b | Q4c | Q4d | Q4e | Q4f | Q4g | Q4h | 
-| ------------- | ------------- | ---------------- | ------------- | ------ | ---------- | ---------- | ---- | ------ | ---- | ---- | ---- | 
+| posturl      | Q1 | Q2 | Q3 | Q4a | Q4b | Q4c | Q4d | Q4e | Q4f | Q4g | Q4h | Q4i | Q4j | Q5a | Q5b | country | lang | 
+| ------------- | ------------- | ---------------- | ------------- | ------ | ---------- | ---------- | ---- | ------ | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | 
 
 ## Citation
 
